@@ -1,0 +1,24 @@
+
+# Environment variables
+.env
+medbridge-backend/.env
+
+# Node modules
+node_modules/
+medbridge-frontend/node_modules/
+medbridge-backend/node_modules/
+node_modules
+# Build files
+medbridge-frontend/build/
+medbridge-backend/dist/
+
+# Environment variables
+medbridge-frontend/.env
+medbridge-backend/.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
