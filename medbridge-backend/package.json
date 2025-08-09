@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -24,9 +25,4 @@
   "devDependencies": {
     "nodemon": "^3.1.10"
   }
-  ,
-  "scripts": {
-  "start": "node app.js"
-}
-
 }
